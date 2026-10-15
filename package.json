@@ -1,0 +1,25 @@
+{
+  "name": "com.tauntastic.webbrowser",
+  "version": "1.0.0",
+  "displayName": "Tauntastic.WebBrowser",
+  "description": "Drives a real Chrome, Edge, Brave or Chromium window from the Unity Editor: open a page, let the user sign in, wait for it, run JavaScript on it and read the result",
+  "unity": "2023.2",
+  "author": {
+    "name": "Taunting",
+    "email": "tauntastic.unitydeveloper@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "unity",
+    "editor",
+    "browser",
+    "webview",
+    "chrome",
+    "devtools"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exhit/Tauntastic.Webbrowser.git"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tauntastic.WebBrowser.UI",
+    "rootNamespace": "Tauntastic.WebBrowser.UI",
+    "references": [
+        "Tauntastic.WebBrowser",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
